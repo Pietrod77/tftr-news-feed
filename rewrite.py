@@ -30,6 +30,19 @@ Write, in your own words (do not copy phrases from the original):
 Respond with ONLY valid JSON, no other text: {{"headline": "...", "blurb": "..."}}"""
 
 
+def _extract_json(text: str) -> str:
+    """Extract JSON from text, stripping markdown code fences if present."""
+    text = text.strip()
+    # If wrapped in markdown code fences, strip them
+    if text.startswith("```"):
+        # Remove opening fence (```json or ```)
+        text = re.sub(r"^```(?:json)?\s*\n?", "", text)
+        # Remove closing fence
+        text = re.sub(r"\n?```$", "", text)
+        text = text.strip()
+    return text
+
+
 def rewrite_item(client, source: str, title: str, summary: str) -> dict:
     message = client.messages.create(
         model=REWRITE_MODEL,
@@ -39,7 +52,8 @@ def rewrite_item(client, source: str, title: str, summary: str) -> dict:
             "content": _PROMPT.format(source=source, title=title, summary=summary),
         }],
     )
-    data = json.loads(message.content[0].text)
+    json_text = _extract_json(message.content[0].text)
+    data = json.loads(json_text)
     return {
         "headline": no_dashes(data["headline"]).strip(),
         "blurb": no_dashes(data["blurb"]).strip(),
