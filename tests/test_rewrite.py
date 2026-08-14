@@ -48,3 +48,20 @@ def test_rewrite_item_parses_json_response_and_strips_dashes():
     assert result["headline"] == "Lab-Grown Leather Enters Production, At Scale"
     assert result["blurb"] == "Design teams gain a durable, low-impact material option."
     assert client.messages.calls[0]["model"] == "claude-haiku-4-5-20251001"
+
+
+def test_rewrite_item_handles_markdown_fenced_json():
+    # Test that rewrite_item handles JSON wrapped in markdown code fences
+    json_data = {
+        "headline": "Still Here Launches Flagship West Village — Location",
+        "blurb": "Expanding retail footprint — signals growth opportunity for brands seeking NYC distribution partnerships.",
+    }
+    # Simulate Claude's response with markdown code fence (with language tag)
+    fake_text = "```json\n" + json.dumps(json_data) + "\n```"
+    client = _FakeClient(fake_text)
+
+    result = rewrite_item(client, "WWD", "orig title", "orig summary")
+
+    assert result["headline"] == "Still Here Launches Flagship West Village, Location"
+    assert result["blurb"] == "Expanding retail footprint, signals growth opportunity for brands seeking NYC distribution partnerships."
+    assert client.messages.calls[0]["model"] == "claude-haiku-4-5-20251001"
