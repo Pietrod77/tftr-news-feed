@@ -1,4 +1,21 @@
 {
-  "updated": null,
-  "items": []
+  "updated": "2026-08-14T15:45:43.433411",
+  "items": [
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/denim-brand-still-here-opens-west-village-boutique-nyc-1239123424/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Still Here Expands Retail Footprint with Flagship West Village Location",
+      "blurb": "Direct-to-consumer growth signals denim label's confidence in brand positioning and retail strategy.",
+      "published": "Thu, 13 Aug 2026 17:42:19 +0000",
+      "added": "2026-08-14"
+    },
+    {
+      "url": "https://www.businessoffashion.com/articles/footwear/inside-the-push-towards-footwear-manufacturing-in-portugal/",
+      "source": "Business of Fashion",
+      "headline": "Portugal Emerges as Key Footwear Hub Amid Supply Chain Shifts",
+      "blurb": "As production networks reorganize globally, Portugal offers design teams a nearshoring alternative with established expertise and capacity.",
+      "published": "Thu, 04 Jun 2026 05:00:00 +0000",
+      "added": "2026-08-14"
+    }
+  ]
 }
