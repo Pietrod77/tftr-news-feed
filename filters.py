@@ -13,6 +13,8 @@ EXCLUDE_KEYWORDS = [
     "kardashian", "awards show", "stock price", "shares", "acquisition",
     "merger", "ipo", "lawsuit", "layoffs", "ceo", "earnings", "revenue",
     "quarterly", "appoint",
+    "boutique", "flagship store", "pop-up shop", "shop experience",
+    "retail experience", "storefront",
 ]
 
 
