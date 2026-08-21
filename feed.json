@@ -1,22 +1,6 @@
 {
-  "updated": "2026-08-20T13:43:35.551778",
+  "updated": "2026-08-21T13:42:24.752804",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/futuretex-defense-textiles-1239126631/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "NC State Launches $480M Initiative to Revitalize U.S. Textile Production",
-      "blurb": "Domestic manufacturing expansion could reshape sourcing options and material innovation timelines for design teams.",
-      "published": "Mon, 17 Aug 2026 16:49:09 +0000",
-      "added": "2026-08-18"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/denim-street-style-copenhagen-fashion-week-pencil-skirts-1239099058/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Copenhagen Fashion Week Spotlights Denim as Wardrobe Staple",
-      "blurb": "Classic denim's continued prominence signals strong market demand for versatile, timeless silhouettes.",
-      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
-      "added": "2026-08-19"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/industry-news/uae-naseej-textile-circularity-1239128479/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Design teams must factor stricter packaging requirements into product development timelines and material specifications.",
       "published": "Thu, 20 Aug 2026 10:14:55 +0000",
       "added": "2026-08-20"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/lab-denim-rebrand-wtrlss-next-chapter-in-digital-dyeing-1239143753/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Digital Dyeing Innovator Expands Beyond Denim Into New Categories",
+      "blurb": "Design teams can reduce lead times and sample waste by adopting digital dyeing across more product lines.",
+      "published": "Fri, 21 Aug 2026 12:00:00 +0000",
+      "added": "2026-08-21"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/material-world-new-weaves-textile-futures-1239143146/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Innovation Wave: 3D Weaving, Certification Updates, and Manufacturing Shifts",
+      "blurb": "Design teams gain access to faster production methods and clearer sustainability standards for material selection and development.",
+      "published": "Thu, 20 Aug 2026 18:00:00 +0000",
+      "added": "2026-08-21"
     }
   ]
 }
