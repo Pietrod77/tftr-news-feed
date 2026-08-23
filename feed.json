@@ -1,22 +1,6 @@
 {
-  "updated": "2026-08-22T13:29:09.029435",
+  "updated": "2026-08-23T13:30:10.995339",
   "items": [
-    {
-      "url": "https://www.just-style.com/news/sudwesttextil-eu-packaging-law/",
-      "source": "Just Style",
-      "headline": "German textiles industry cites compliance challenges with new EU packaging rules",
-      "blurb": "Design teams must factor stricter packaging requirements into product development timelines and material specifications.",
-      "published": "Thu, 20 Aug 2026 10:14:55 +0000",
-      "added": "2026-08-20"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/lab-denim-rebrand-wtrlss-next-chapter-in-digital-dyeing-1239143753/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Digital Dyeing Innovator Expands Beyond Denim Into New Categories",
-      "blurb": "Design teams can reduce lead times and sample waste by adopting digital dyeing across more product lines.",
-      "published": "Fri, 21 Aug 2026 12:00:00 +0000",
-      "added": "2026-08-21"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sustainability/material-world-new-weaves-textile-futures-1239143146/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Understanding fabric innovation helps teams create durable, functional apparel that meets evolving workplace demands.",
       "published": "Fri, 21 Aug 2026 15:45:42 +0000",
       "added": "2026-08-22"
+    },
+    {
+      "url": "https://www.just-style.com/interviews/we-love-this-industry-how-laundre-is-closing-fashions-broken-loop/",
+      "source": "Just Style",
+      "headline": "UK Denim Startup Moves Finishing In-House to Cut Waste",
+      "blurb": "Designers can now specify locally-finished denim, reducing production timelines and environmental impact while supporting reshoring initiatives.",
+      "published": "Fri, 21 Aug 2026 10:02:10 +0000",
+      "added": "2026-08-23"
+    },
+    {
+      "url": "https://www.just-style.com/news/pakistan-crop-waste-textile/",
+      "source": "Just Style",
+      "headline": "Pakistan Initiative Transforms Cotton Waste Into Industrial Bio-Coal",
+      "blurb": "Sustainable sourcing opportunity: UK-backed program converts agricultural byproducts into clean energy for textile manufacturing.",
+      "published": "Fri, 21 Aug 2026 09:39:33 +0000",
+      "added": "2026-08-23"
     }
   ]
 }
