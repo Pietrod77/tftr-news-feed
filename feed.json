@@ -1,22 +1,6 @@
 {
-  "updated": "2026-08-24T13:48:59.858017",
+  "updated": "2026-08-25T13:46:47.044734",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/traditional-workwear-is-evolving-1239144810/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Technical Textiles Transform Modern Workwear Design",
-      "blurb": "Understanding fabric innovation helps teams create durable, functional apparel that meets evolving workplace demands.",
-      "published": "Fri, 21 Aug 2026 15:45:42 +0000",
-      "added": "2026-08-22"
-    },
-    {
-      "url": "https://www.just-style.com/interviews/we-love-this-industry-how-laundre-is-closing-fashions-broken-loop/",
-      "source": "Just Style",
-      "headline": "UK Denim Startup Moves Finishing In-House to Cut Waste",
-      "blurb": "Designers can now specify locally-finished denim, reducing production timelines and environmental impact while supporting reshoring initiatives.",
-      "published": "Fri, 21 Aug 2026 10:02:10 +0000",
-      "added": "2026-08-23"
-    },
     {
       "url": "https://www.just-style.com/news/pakistan-crop-waste-textile/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Centralized communication reduces delays and errors in denim development cycles.",
       "published": "Mon, 24 Aug 2026 12:00:00 +0000",
       "added": "2026-08-24"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/trade/bangladesh-garment-workers-minimum-wage-board-1239147733/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Bangladesh Wage Dispute Threatens Production Timeline",
+      "blurb": "Disagreement over minimum wage review could impact sourcing costs and factory capacity planning for 2025 collections.",
+      "published": "Mon, 24 Aug 2026 19:50:40 +0000",
+      "added": "2026-08-25"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/the-realreal-2026-resale-report-vintage-searches-1239148202/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "2000s Vintage Searches Spike 93% on RealReal as Buyers Hunt Specifics",
+      "blurb": "Design teams should track nostalgia-driven demand signals to inform upcoming collections and material sourcing strategies.",
+      "published": "Mon, 24 Aug 2026 19:27:35 +0000",
+      "added": "2026-08-25"
     }
   ]
 }
