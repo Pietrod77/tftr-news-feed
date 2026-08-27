@@ -1,22 +1,6 @@
 {
-  "updated": "2026-08-26T13:52:27.010821",
+  "updated": "2026-08-27T22:46:12.364423",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/denimnotes-targets-supply-chain-inefficiencies-1239097337/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "DenimNotes Streamlines Buyer-Mill Collaboration With Unified Platform",
-      "blurb": "Centralized communication reduces delays and errors in denim development cycles.",
-      "published": "Mon, 24 Aug 2026 12:00:00 +0000",
-      "added": "2026-08-24"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/trade/bangladesh-garment-workers-minimum-wage-board-1239147733/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Bangladesh Wage Dispute Threatens Production Timeline",
-      "blurb": "Disagreement over minimum wage review could impact sourcing costs and factory capacity planning for 2025 collections.",
-      "published": "Mon, 24 Aug 2026 19:50:40 +0000",
-      "added": "2026-08-25"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/industry-news/the-realreal-2026-resale-report-vintage-searches-1239148202/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Faster production cycles and reduced fabric waste mean shorter lead times and lower material costs for design teams.",
       "published": "Tue, 25 Aug 2026 10:05:52 +0000",
       "added": "2026-08-26"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/levi-strauss-co-files-notice-of-opposition-1239166529/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Levi Strauss Challenges House of Levii Over IP Infringement",
+      "blurb": "Design teams should review trademark guidelines to avoid similar legal disputes when developing new collections or brand names.",
+      "published": "Thu, 27 Aug 2026 18:44:34 +0000",
+      "added": "2026-08-27"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/material-world-lycra-pfas-polyester-dyeing-wind-blades-1239149781/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Sustainable Breakthroughs: Bio-Based Finishes and Recycled Materials Reshape Textiles",
+      "blurb": "Design teams can now access eco-friendly alternatives that reduce chemical dependency and waste while meeting performance standards.",
+      "published": "Thu, 27 Aug 2026 18:00:00 +0000",
+      "added": "2026-08-27"
     }
   ]
 }
