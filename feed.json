@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-07T18:05:14.403437",
+  "updated": "2026-09-08T17:03:21.215493",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/shuffle-board-kohls-ryan-waymire-createme-executives-1239198354/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Kohl's Hires Walmart Veteran; CreateMe Expands Leadership Team",
-      "blurb": "Retail leadership shifts and automation tech scaling signal evolving supply chain strategies affecting product development timelines and manufacturing partnerships.",
-      "published": "Fri, 04 Sep 2026 18:00:00 +0000",
-      "added": "2026-09-05"
-    },
-    {
-      "url": "https://www.just-style.com/news/very-group-struggles-to-secure-buyer/",
-      "source": "Just Style",
-      "headline": "Very Group's sale talks collapse as buyer interest dries up",
-      "blurb": "Potential supply chain disruptions could impact product sourcing and delivery timelines for retail partners.",
-      "published": "Fri, 04 Sep 2026 10:36:08 +0000",
-      "added": "2026-09-06"
-    },
     {
       "url": "https://www.just-style.com/news/global-garment-trade-export/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Demonstrates how supply chain transparency and regional artisan partnerships can differentiate indie labels in competitive markets.",
       "published": "Wed, 02 Sep 2026 12:30:00 GMT",
       "added": "2026-09-07"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/wrangler-launches-womens-denim-target-western-1239199941/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Wrangler Expands Retail Reach With New Women's Denim at Target",
+      "blurb": "Heritage brands entering mass-market channels signal shifting strategies for capturing younger female consumers and competing in accessible price tiers.",
+      "published": "Tue, 08 Sep 2026 12:00:00 +0000",
+      "added": "2026-09-08"
+    },
+    {
+      "url": "https://www.just-style.com/news/cone-denim-china-exit/",
+      "source": "Just Style",
+      "headline": "Denim Giant Cone Shifts Production from China to Mexico by 2026",
+      "blurb": "Designers should expect potential lead time changes and new sourcing options as the major supplier restructures its manufacturing footprint.",
+      "published": "Tue, 08 Sep 2026 09:02:59 +0000",
+      "added": "2026-09-08"
     }
   ]
 }
