@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-10T16:53:11.418568",
+  "updated": "2026-09-11T16:53:40.451588",
   "items": [
-    {
-      "url": "https://www.just-style.com/news/cone-denim-china-exit/",
-      "source": "Just Style",
-      "headline": "Denim Giant Cone Shifts Production from China to Mexico by 2026",
-      "blurb": "Designers should expect potential lead time changes and new sourcing options as the major supplier restructures its manufacturing footprint.",
-      "published": "Tue, 08 Sep 2026 09:02:59 +0000",
-      "added": "2026-09-08"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/celebrities-turn-to-denim-coordinates-relaxed-fit-jeans-1239201784/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Celebrity Style Drives Demand for Coordinated Denim and Embellished Finishes",
-      "blurb": "Designers should prioritize matching denim sets and decorative detailing to capture trend-forward consumer interest.",
-      "published": "Wed, 09 Sep 2026 14:00:00 +0000",
-      "added": "2026-09-09"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/logistics/china-exports-us-august-trade-surplus-ai-apparel-trump-xi-tariffs-1239202747/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Streamlines sourcing process by eliminating intermediaries and expanding access to production partners worldwide.",
       "published": "Thu, 10 Sep 2026 14:49:51 +0000",
       "added": "2026-09-10"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/turkish-denim-mill-orta-shuts-down-rising-costs-trade-1239221370/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Turkish Denim Producer Orta Ceases Operations",
+      "blurb": "Design teams relying on the mill for fabric sourcing will need to identify alternative denim suppliers immediately.",
+      "published": "Fri, 11 Sep 2026 14:34:17 +0000",
+      "added": "2026-09-11"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/soho-re-done-sap-n4xt-artificial-intelligence-1239205352/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Re/Done Launches SoHo Flagship as AI-Powered Retail Lab",
+      "blurb": "Strategic integration of machine learning into physical retail signals how brands are using data insights to enhance design and customer experience strategies.",
+      "published": "Fri, 11 Sep 2026 12:00:00 +0000",
+      "added": "2026-09-11"
     }
   ]
 }
