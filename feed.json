@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-13T16:48:41.347058",
+  "updated": "2026-09-14T18:20:16.688225",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/soho-re-done-sap-n4xt-artificial-intelligence-1239205352/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Re/Done Launches SoHo Flagship as AI-Powered Retail Lab",
-      "blurb": "Strategic integration of machine learning into physical retail signals how brands are using data insights to enhance design and customer experience strategies.",
-      "published": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "added": "2026-09-11"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/uk-manufacturing-source-fashion-community-clothing-1239222810/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "UK Fashion Factories Pitch Local Production Revival",
-      "blurb": "Domestic manufacturing offers design teams speed-to-market and supply chain stability over overseas outsourcing.",
-      "published": "Fri, 11 Sep 2026 21:21:24 +0000",
-      "added": "2026-09-12"
-    },
     {
       "url": "https://www.just-style.com/news/300-fashion-brands-and-retailers-sign-the-international-safety-accord/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Design teams must review sourcing practices now to meet the December 2026 compliance deadline for new material requirements.",
       "published": "Thu, 10 Sep 2026 09:16:15 +0000",
       "added": "2026-09-13"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/alliance-plastic-waste-2025-progress-report-1239230500/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Plastic Waste Alliance Increases Volume, But Scale Impact Still Uncertain",
+      "blurb": "Design teams should track waste management metrics as retailers increasingly demand transparency on material lifecycle and circular credentials.",
+      "published": "Mon, 14 Sep 2026 16:55:09 +0000",
+      "added": "2026-09-14"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/trendalytics-slim-fit-denim-statement-pockets-trending-1239208511/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Narrow Cuts and Bold Pocket Details Dominate Fall 2026 Denim",
+      "blurb": "Design teams should adjust patterns and focus on pocket embellishments as consumer preference shifts toward more tailored silhouettes.",
+      "published": "Mon, 14 Sep 2026 12:00:00 +0000",
+      "added": "2026-09-14"
     }
   ]
 }
