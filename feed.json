@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-20T16:40:45.084722",
+  "updated": "2026-09-21T18:27:19.192066",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/plant-based-low-carbon-denim-comes-climate-week-nyc-1239239029/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Sustainable Denim Innovation Debuts at Climate Week NYC",
-      "blurb": "Eco-conscious fabric alternatives offer design teams new options for reducing carbon footprint in collections.",
-      "published": "Fri, 18 Sep 2026 04:01:00 +0000",
-      "added": "2026-09-18"
-    },
-    {
-      "url": "https://wwd.com/runway/spring-2027/london/oscar-ouyang/review/",
-      "source": "WWD",
-      "headline": "Oscar Ouyang Spring 2027: Playful Knitwear Gets Edgy",
-      "blurb": "Metallic details and crochet textures on elevated basics signal how designers are refreshing casual wear for younger consumers.",
-      "published": "Sat, 19 Sep 2026 08:01:55 +0000",
-      "added": "2026-09-19"
-    },
     {
       "url": "https://www.just-style.com/news/gtrs-textile-fibre-certification/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "ANDAM Prize winner diversifies technical fabric innovations, offering design teams fresh material options for Spring 2027 collections.",
       "published": "Sun, 20 Sep 2026 13:02:11 +0000",
       "added": "2026-09-20"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/bluesign-unseen-process-bluepass-consumer-campaign-1239244438/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Bluesign Launches First Consumer-Facing Sustainability Push",
+      "blurb": "New visibility into textile chemistry helps brands meet stricter EU labeling standards and build consumer trust in sustainability claims.",
+      "published": "Mon, 21 Sep 2026 14:00:00 +0000",
+      "added": "2026-09-21"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/oxford-fashion-farmland-leather-wool-biodynamic-1239245351/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Study: Livestock Production Accounts for 30% of Fashion's Land Use",
+      "blurb": "Design teams should consider fiber sourcing impact when developing sustainable collections and meeting ESG commitments.",
+      "published": "Mon, 21 Sep 2026 00:00:00 +0000",
+      "added": "2026-09-21"
     }
   ]
 }
