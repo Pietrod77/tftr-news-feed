@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-22T17:30:42.685818",
+  "updated": "2026-09-23T17:41:39.795126",
   "items": [
-    {
-      "url": "https://wwd.com/runway/spring-2027/london/pauline-dujancourt/review/",
-      "source": "WWD",
-      "headline": "Pauline Dujancourt Expands Beyond Knitwear With New Woven Textiles",
-      "blurb": "ANDAM Prize winner diversifies technical fabric innovations, offering design teams fresh material options for Spring 2027 collections.",
-      "published": "Sun, 20 Sep 2026 13:02:11 +0000",
-      "added": "2026-09-20"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/bluesign-unseen-process-bluepass-consumer-campaign-1239244438/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Bluesign Launches First Consumer-Facing Sustainability Push",
-      "blurb": "New visibility into textile chemistry helps brands meet stricter EU labeling standards and build consumer trust in sustainability claims.",
-      "published": "Mon, 21 Sep 2026 14:00:00 +0000",
-      "added": "2026-09-21"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sustainability/oxford-fashion-farmland-leather-wool-biodynamic-1239245351/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Streamlined production cuts processing time and costs while maintaining color quality for cellulosic textiles.",
       "published": "Tue, 22 Sep 2026 12:00:00 +0000",
       "added": "2026-09-22"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/denim-style-at-new-york-fashion-week-true-religion-paige-1239254099/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Denim Takes Center Stage at NYFW",
+      "blurb": "Designers signal continued demand for denim innovation, signaling key trends for upcoming seasonal collections.",
+      "published": "Wed, 23 Sep 2026 15:30:00 +0000",
+      "added": "2026-09-23"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/spring-summer-2027-denim-nyfw-7-for-all-mankind-luar-area-1239253329/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Cropped Silhouettes & Vibrant Hues Define SS27 Collections at NYFW",
+      "blurb": "Design teams should note rising demand for high-waisted denim and bold colorways as key commercial directions for upcoming seasons.",
+      "published": "Wed, 23 Sep 2026 14:00:00 +0000",
+      "added": "2026-09-23"
     }
   ]
 }
