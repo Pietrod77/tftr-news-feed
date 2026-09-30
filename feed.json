@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-29T18:26:54.363320",
+  "updated": "2026-09-30T18:15:52.096709",
   "items": [
-    {
-      "url": "https://wwd.com/runway/spring-2027/milan/alanui/review/",
-      "source": "WWD",
-      "headline": "Alanui Debuts at Milan Fashion Week With Luxury Knitwear",
-      "blurb": "Italian brand's MFW presentation signals growth in the premium knitwear category and evolving consumer demand for heritage craftsmanship.",
-      "published": "Sun, 27 Sep 2026 15:22:23 +0000",
-      "added": "2026-09-27"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/denim-street-style-london-fashion-week-laser-prints-1239260188/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Denim Dominates LFW Runways as Design Staple",
-      "blurb": "Designers' fresh takes on denim signal strong demand for versatile basics in upcoming collections.",
-      "published": "Mon, 28 Sep 2026 14:00:00 +0000",
-      "added": "2026-09-28"
-    },
     {
       "url": "https://www.just-style.com/news/uk-textile-waste-the-circuit/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Strategic packaging now drives brand differentiation and consumer loyalty across retail and digital channels.",
       "published": "Thu, 24 Sep 2026 12:30:00 GMT",
       "added": "2026-09-29"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/loose-threads-levis-wrangler-ksubi-flocked-denim-1239296430/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Major Denim Brands Release Latest Collections and Updates",
+      "blurb": "Track competitive product launches and design innovations from key players shaping market trends.",
+      "published": "Wed, 30 Sep 2026 14:29:17 +0000",
+      "added": "2026-09-30"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/consortium-patagonia-puma-recycled-waste-textile-1239288651/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Patagonia, Puma Prove Recycled Polyester Can Scale Commercially",
+      "blurb": "Designers can now source sustainable performance fabrics at industrial volumes without compromising quality standards.",
+      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
+      "added": "2026-09-30"
     }
   ]
 }
