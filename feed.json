@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-01T18:41:04.606769",
+  "updated": "2026-10-02T18:11:51.729887",
   "items": [
-    {
-      "url": "https://fashionista.com/2026/09/beauty-packaging-trends-2026",
-      "source": "Fashionista",
-      "headline": "Packaging Design Shifts to Emotional Storytelling in 2026",
-      "blurb": "Strategic packaging now drives brand differentiation and consumer loyalty across retail and digital channels.",
-      "published": "Thu, 24 Sep 2026 12:30:00 GMT",
-      "added": "2026-09-29"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/loose-threads-levis-wrangler-ksubi-flocked-denim-1239296430/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Major Denim Brands Release Latest Collections and Updates",
-      "blurb": "Track competitive product launches and design innovations from key players shaping market trends.",
-      "published": "Wed, 30 Sep 2026 14:29:17 +0000",
-      "added": "2026-09-30"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/industry-news/consortium-patagonia-puma-recycled-waste-textile-1239288651/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Bio-engineered silk offers designers a sustainable alternative with enhanced performance properties for next-gen athletic wear.",
       "published": "Thu, 01 Oct 2026 13:00:00 +0000",
       "added": "2026-10-01"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/modern-syntex-adb-loan-polyester-bangladesh-1239304611/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Bangladesh Polyester Maker Secures $50M to Quadruple Output",
+      "blurb": "Design teams may see improved polyester availability and potentially better pricing as production capacity expands significantly.",
+      "published": "Fri, 02 Oct 2026 16:30:00 +0000",
+      "added": "2026-10-02"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/weavabel-closed-loop-sytem-poly-bag-eu-circularity-1239303024/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Startup Unveils Circular Packaging Solution for Recyclable Poly Bags",
+      "blurb": "Designers can now specify packaging that feeds into closed-loop systems, reducing waste and supporting sustainability commitments.",
+      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+      "added": "2026-10-02"
     }
   ]
 }
