@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-02T18:11:51.729887",
+  "updated": "2026-10-03T16:57:22.538605",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/consortium-patagonia-puma-recycled-waste-textile-1239288651/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Patagonia, Puma Prove Recycled Polyester Can Scale Commercially",
-      "blurb": "Designers can now source sustainable performance fabrics at industrial volumes without compromising quality standards.",
-      "published": "Wed, 30 Sep 2026 13:00:00 +0000",
-      "added": "2026-09-30"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/rheom-materials-biobased-footwear-bared-shorai-benree-1239301219/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Rheom Materials Expands Into Footwear With Sustainable Components",
-      "blurb": "Designers can now source lab-made alternatives to traditional plastics and leather, reducing environmental impact without redesigning silhouettes.",
-      "published": "Thu, 01 Oct 2026 16:00:00 +0000",
-      "added": "2026-10-01"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/industry-news/kraig-labs-ships-commercial-spider-silk-yarn-1239299258/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Designers can now specify packaging that feeds into closed-loop systems, reducing waste and supporting sustainability commitments.",
       "published": "Fri, 02 Oct 2026 15:00:00 +0000",
       "added": "2026-10-02"
+    },
+    {
+      "url": "https://www.just-style.com/news/madagascar-clothing-industry-bets-on-cost-compliance-resilience/",
+      "source": "Just Style",
+      "headline": "Madagascar seeks higher-margin garment production while protecting competitive pricing",
+      "blurb": "Design teams should monitor Madagascar's supply chain evolution as factories upgrade capabilities and compliance standards.",
+      "published": "Fri, 02 Oct 2026 08:06:37 +0000",
+      "added": "2026-10-03"
+    },
+    {
+      "url": "https://www.just-style.com/news/virgin-fossil-based-fibres-drive-record-global-production/",
+      "source": "Just Style",
+      "headline": "Textile output hits 139M tonnes as synthetic fibres surge",
+      "blurb": "Design teams face pressure to differentiate through sustainable materials as conventional synthetics dominate production.",
+      "published": "Fri, 02 Oct 2026 08:05:44 +0000",
+      "added": "2026-10-03"
     }
   ]
 }
