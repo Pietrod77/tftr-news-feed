@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-03T16:57:22.538605",
+  "updated": "2026-10-04T17:16:39.228667",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/kraig-labs-ships-commercial-spider-silk-yarn-1239299258/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Kraig Labs Delivers First Spider Silk Yarn to Major Sports Brand",
-      "blurb": "Bio-engineered silk offers designers a sustainable alternative with enhanced performance properties for next-gen athletic wear.",
-      "published": "Thu, 01 Oct 2026 13:00:00 +0000",
-      "added": "2026-10-01"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/modern-syntex-adb-loan-polyester-bangladesh-1239304611/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Bangladesh Polyester Maker Secures $50M to Quadruple Output",
-      "blurb": "Design teams may see improved polyester availability and potentially better pricing as production capacity expands significantly.",
-      "published": "Fri, 02 Oct 2026 16:30:00 +0000",
-      "added": "2026-10-02"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sustainability/weavabel-closed-loop-sytem-poly-bag-eu-circularity-1239303024/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Design teams face pressure to differentiate through sustainable materials as conventional synthetics dominate production.",
       "published": "Fri, 02 Oct 2026 08:05:44 +0000",
       "added": "2026-10-03"
+    },
+    {
+      "url": "https://www.just-style.com/news/worldly-turns-esg-data-into-compliance-action/",
+      "source": "Just Style",
+      "headline": "Worldly consolidates ESG data into actionable compliance tools",
+      "blurb": "Design teams can now access unified sustainability metrics to inform material choices and production decisions.",
+      "published": "Thu, 01 Oct 2026 08:24:33 +0000",
+      "added": "2026-10-04"
+    },
+    {
+      "url": "https://fashionista.com/2026/10/garatti-milan-high-jewelry-atelier-green-diamonds",
+      "source": "Fashionista",
+      "headline": "Italian Jeweler Controls Majority of Global Green Diamond Supply",
+      "blurb": "Critical for sourcing rare gemstones and understanding competitive positioning in luxury colored diamond collections.",
+      "published": "Fri, 02 Oct 2026 12:30:00 GMT",
+      "added": "2026-10-04"
     }
   ]
 }
