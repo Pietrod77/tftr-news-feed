@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-04T17:16:39.228667",
+  "updated": "2026-10-06T18:45:35.339114",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/weavabel-closed-loop-sytem-poly-bag-eu-circularity-1239303024/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Startup Unveils Circular Packaging Solution for Recyclable Poly Bags",
-      "blurb": "Designers can now specify packaging that feeds into closed-loop systems, reducing waste and supporting sustainability commitments.",
-      "published": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "added": "2026-10-02"
-    },
-    {
-      "url": "https://www.just-style.com/news/madagascar-clothing-industry-bets-on-cost-compliance-resilience/",
-      "source": "Just Style",
-      "headline": "Madagascar seeks higher-margin garment production while protecting competitive pricing",
-      "blurb": "Design teams should monitor Madagascar's supply chain evolution as factories upgrade capabilities and compliance standards.",
-      "published": "Fri, 02 Oct 2026 08:06:37 +0000",
-      "added": "2026-10-03"
-    },
     {
       "url": "https://www.just-style.com/news/virgin-fossil-based-fibres-drive-record-global-production/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Critical for sourcing rare gemstones and understanding competitive positioning in luxury colored diamond collections.",
       "published": "Fri, 02 Oct 2026 12:30:00 GMT",
       "added": "2026-10-04"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/accelerating-circularity-textile-recycling-bankability-1239315730/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Finance, Not Tech, Blocking Textile Recycling Growth",
+      "blurb": "Understanding investment barriers helps teams build viable circular supply chains and differentiate products.",
+      "published": "Tue, 06 Oct 2026 16:03:40 +0000",
+      "added": "2026-10-06"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/nike-patagonia-under-armour-microfiber-action-alliance-1239315575/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Major Brands Unite to Combat Microfiber Pollution in Manufacturing",
+      "blurb": "Design teams must now consider filtration requirements and mill upgrades as standard specs for fabric sourcing and production planning.",
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "added": "2026-10-06"
     }
   ]
 }
