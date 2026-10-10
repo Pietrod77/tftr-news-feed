@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-09T18:38:36.687681",
+  "updated": "2026-10-10T17:37:54.468893",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/european-commission-outlines-textile-best-practices-report-1239317732/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "EU Commission Releases Textile Strategy Focused on Innovation and Local Production",
-      "blurb": "Designers and buyers should track new European sourcing standards that could reshape supply chain decisions and production timelines.",
-      "published": "Wed, 07 Oct 2026 14:00:00 +0000",
-      "added": "2026-10-07"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/kaihara-denim-remod-tencel-fibers-collection-1239333976/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Kaihara Explores Lyocell Variants for Diverse Denim Aesthetics",
-      "blurb": "Multiple fiber options enable designers to customize hand-feel and appearance without changing base materials.",
-      "published": "Thu, 08 Oct 2026 18:49:33 +0000",
-      "added": "2026-10-08"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sustainability/material-world-anrealage-e-ink-daikin-pfas-1239316896/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Designers can access new recycled fiber sources as the facility processes 200 tons of textile waste daily.",
       "published": "Fri, 09 Oct 2026 15:30:00 +0000",
       "added": "2026-10-09"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/on-the-line-beximco-india-protests-colombia-albania-1239336284/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Beximco Seeks International Capital to Revive Bangladesh Garment Production",
+      "blurb": "Supply chain disruptions across Asia and labor concerns in key manufacturing hubs may impact sourcing timelines and production costs for upcoming seasons.",
+      "published": "Fri, 09 Oct 2026 21:01:29 +0000",
+      "added": "2026-10-10"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/billion-rise-opens-apparel-factory-in-vietnam-1239335615/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Billion Rise Expands Production Capacity With New Vietnam Facility",
+      "blurb": "New manufacturing hub could shorten lead times and offer design teams additional sourcing flexibility for product development.",
+      "published": "Fri, 09 Oct 2026 20:03:34 +0000",
+      "added": "2026-10-10"
     }
   ]
 }
