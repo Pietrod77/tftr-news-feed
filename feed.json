@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-12T21:32:40.093348",
+  "updated": "2026-10-13T19:43:59.003335",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/billion-rise-opens-apparel-factory-in-vietnam-1239335615/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Billion Rise Expands Production Capacity With New Vietnam Facility",
-      "blurb": "New manufacturing hub could shorten lead times and offer design teams additional sourcing flexibility for product development.",
-      "published": "Fri, 09 Oct 2026 20:03:34 +0000",
-      "added": "2026-10-10"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/lycra-textile-exchange-conference-renewable-corn-1239336088/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Lycra Unveils Plant-Based Fiber Alternative at Textile Exchange",
-      "blurb": "Designers can now specify a sustainable elastic option using corn-derived content for performance wear collections.",
-      "published": "Fri, 09 Oct 2026 19:11:00 +0000",
-      "added": "2026-10-11"
-    },
     {
       "url": "https://www.just-style.com/interviews/why-dnm-denim-sees-disruption-as-an-opportunity-for-nearshoring/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Utilitarian aesthetics offer design teams a fresh direction for esports apparel that bridges streetwear and functional workwear markets.",
       "published": "Mon, 12 Oct 2026 16:16:25 +0000",
       "added": "2026-10-12"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/forever-chemical-european-union-ban-pfas-pfhxa-1239345335/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "EU Restricts PFOA Chemical in Textiles and Apparel",
+      "blurb": "Design teams must reformulate stain-resistant finishes for EU market access, impacting product development timelines and sourcing strategies.",
+      "published": "Tue, 13 Oct 2026 18:45:18 +0000",
+      "added": "2026-10-13"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/two-new-books-offer-in-depth-education-on-denim-endrime-1239332871/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "New Denim Resources Tackle Design and Finishing Techniques",
+      "blurb": "Essential reference material for teams refining denim construction, wash processes and aesthetic development.",
+      "published": "Tue, 13 Oct 2026 18:00:00 +0000",
+      "added": "2026-10-13"
     }
   ]
 }
