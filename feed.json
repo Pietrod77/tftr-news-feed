@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-21T17:53:42.033954",
+  "updated": "2026-10-22T17:50:30.712624",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/kingpins-amsterdam-denim-fashion-gets-real-be-disobedient-1239373345/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Kingpins Amsterdam Reveals SS28 Denim Direction",
-      "blurb": "Sports, nature, and utilitarian references will drive next season's denim aesthetic, key signals for product development.",
-      "published": "Mon, 19 Oct 2026 15:00:00 +0000",
-      "added": "2026-10-19"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/ai-adoption-in-the-textile-industry-sees-roi-1239376807/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Textile Manufacturers See Financial Gains From AI, Despite Implementation Hurdles",
-      "blurb": "Design teams should understand AI's productivity benefits and adoption barriers to plan tech investments and timeline expectations.",
-      "published": "Tue, 20 Oct 2026 16:57:22 +0000",
-      "added": "2026-10-20"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sj-denim/kingpins-amsterdam-denim-collaborations-innovation-creativity-1239374829/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Design teams should note emerging preferences for vibrant palettes and textured, performance-driven fabrics in upcoming seasonal collections.",
       "published": "Wed, 21 Oct 2026 13:00:00 +0000",
       "added": "2026-10-21"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/denim-coatings-finishing-innovations-meet-growing-demand-1239377480/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Amsterdam Denim Summit Spotlights Advanced Coating Technologies",
+      "blurb": "Advanced finishes are becoming essential product differentiators as mills expand coating capabilities to meet market demand.",
+      "published": "Thu, 22 Oct 2026 15:00:00 +0000",
+      "added": "2026-10-22"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/op-ed-the-recycled-content-rules-are-coming-the-fiber-isnt-1239380641/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Recycled Content Mandates Face Infrastructure Shortage",
+      "blurb": "Design teams pushing sustainability goals may struggle to source recycled fibers without adequate industry investment and incentives.",
+      "published": "Thu, 22 Oct 2026 14:48:56 +0000",
+      "added": "2026-10-22"
     }
   ]
 }
