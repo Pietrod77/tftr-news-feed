@@ -1,22 +1,6 @@
 {
-  "updated": "2026-10-22T17:50:30.712624",
+  "updated": "2026-10-23T17:41:04.800760",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/kingpins-amsterdam-denim-collaborations-innovation-creativity-1239374829/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Kingpins Amsterdam Showcases Denim Industry's Push for Collaborative Design",
-      "blurb": "Partnerships at the show signal emerging trends and technical innovations that inform product development roadmaps.",
-      "published": "Tue, 20 Oct 2026 14:00:00 +0000",
-      "added": "2026-10-20"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/needby-vintage-fall-2026-kaihara-denim-retail-expansion-1239377477/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Japanese Label Needby Vintage Taps Kaihara for Reimagined Denim",
-      "blurb": "Demonstrates how heritage fabric partnerships and innovative finishing techniques can differentiate denim offerings in competitive retail markets.",
-      "published": "Wed, 21 Oct 2026 15:00:00 +0000",
-      "added": "2026-10-21"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sj-denim/kingpins-amsterdam-color-texture-performance-denim-1239376025/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Design teams pushing sustainability goals may struggle to source recycled fibers without adequate industry investment and incentives.",
       "published": "Thu, 22 Oct 2026 14:48:56 +0000",
       "added": "2026-10-22"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/kingpins-amsterdam-scaling-denim-innovation-avalo-huue-1239379974/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Scaling Denim Innovation: Amsterdam Experts Share Strategy",
+      "blurb": "Design teams can learn critical processes for bringing experimental denim concepts from prototype to production efficiently.",
+      "published": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "added": "2026-10-23"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/spiber-biofoundry-brewed-protein-fermentation-manufacturing-1239381283/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Spiber Commercializes Fermentation Tech for Competing Brands",
+      "blurb": "Design teams gain access to lab-grown protein alternatives without building infrastructure from scratch.",
+      "published": "Fri, 23 Oct 2026 12:00:00 +0000",
+      "added": "2026-10-23"
     }
   ]
 }
