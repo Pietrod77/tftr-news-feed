@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-01T18:15:09.991427",
+  "updated": "2026-11-02T22:06:53.780142",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/oxman-vigils-bacteria-textile-color-silk-1239392252/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Biotech Startup Uses Bacteria to Dye Silk in Lab",
-      "blurb": "Engineered bacteria could replace toxic chemical dyeing, reducing fashion's environmental footprint while opening new design possibilities.",
-      "published": "Fri, 30 Oct 2026 15:00:00 +0000",
-      "added": "2026-10-30"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/how-to-use-vintage-denim-horror-halloween-costumes-1239392107/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Vintage Denim Becomes Go-To Base for Classic Horror Costume Design",
-      "blurb": "Shows how archival denim can inspire seasonal product lines and expand usage occasions beyond everyday wear.",
-      "published": "Fri, 30 Oct 2026 12:00:00 +0000",
-      "added": "2026-10-30"
-    },
     {
       "url": "https://www.just-style.com/news/source-fashion-fashion-enter-partner/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Collaboration signals continued demand for celebrity-designer partnerships and heritage denim silhouettes in seasonal collections.",
       "published": "Tue, 20 Oct 2026 13:00:00 GMT",
       "added": "2026-11-01"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/reyva-quorium-luxury-leather-rebrand-animal-1239396182/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Lab-Grown Leather Innovator Qorium Relaunch as Reyva Targets Luxury Market",
+      "blurb": "Premium bioengineered leather opens new material possibilities for high-end collections without traditional production constraints.",
+      "published": "Mon, 02 Nov 2026 18:50:56 +0000",
+      "added": "2026-11-02"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sj-denim/pp-free-denim-mission-targets-potassium-permanganate-1239393999/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Industry Coalition Advances Safer Denim Finishing Standards",
+      "blurb": "Designers can now source sustainable denim without toxic chemical treatments, opening new product differentiation opportunities.",
+      "published": "Mon, 02 Nov 2026 17:51:04 +0000",
+      "added": "2026-11-02"
     }
   ]
 }
