@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-08T18:12:09.492358",
+  "updated": "2026-11-09T22:51:24.735740",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/op-ed-the-plastic-exit-needs-a-fiber-plan-canopy-forests-1239402921/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Brands Rethink Materials as Packaging Sustainability Shifts",
-      "blurb": "Design teams can align fiber sourcing with eco-packaging redesigns to meet buyer demand for circular solutions.",
-      "published": "Fri, 06 Nov 2026 15:00:00 +0000",
-      "added": "2026-11-06"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/logistics/walmart-zipline-1-5-billion-funding-drone-delivery-300-sites-1239404715/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Walmart Expands Zipline Drone Network With 300 New Delivery Sites",
-      "blurb": "Accelerating last-mile logistics could reshape supply chain timelines and inventory planning for fashion brands and retailers.",
-      "published": "Fri, 06 Nov 2026 20:06:13 +0000",
-      "added": "2026-11-07"
-    },
     {
       "url": "https://www.just-style.com/news/reju-partners-with-six-specialist-mills-to-scale-regenerated-polyester/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "New recycling pathway addresses unsellable inventory challenges while creating circular production opportunities for brands.",
       "published": "Thu, 05 Nov 2026 10:11:45 +0000",
       "added": "2026-11-08"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/unspun-arvind-3d-oneweave-technology-1239407545/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Unspun Partners With Arvind to Scale 3D Weaving Production",
+      "blurb": "Direct yarn-to-garment manufacturing could accelerate design-to-market timelines while reducing overproduction waste.",
+      "published": "Mon, 09 Nov 2026 18:10:27 +0000",
+      "added": "2026-11-09"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/euratex-global-fashion-agenda-alliance-eu-textile-regulation-1239404243/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Euratex, Global Fashion Agenda Join Forces on EU Textile Policy",
+      "blurb": "Design teams should monitor emerging sustainability mandates that could reshape material sourcing and compliance requirements.",
+      "published": "Mon, 09 Nov 2026 16:30:00 +0000",
+      "added": "2026-11-09"
     }
   ]
 }
