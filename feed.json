@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-09T22:51:24.735740",
+  "updated": "2026-11-10T20:11:56.090010",
   "items": [
-    {
-      "url": "https://www.just-style.com/news/reju-partners-with-six-specialist-mills-to-scale-regenerated-polyester/",
-      "source": "Just Style",
-      "headline": "Reju expands regenerated polyester production through mill partnerships",
-      "blurb": "Designers gain access to sustainable fabric alternatives with established supply chain infrastructure for product development.",
-      "published": "Thu, 05 Nov 2026 10:52:17 +0000",
-      "added": "2026-11-07"
-    },
-    {
-      "url": "https://wwd.com/pop-culture/celebrity-news/ashley-park-prabal-gurung-lacma-gala-2026-red-carpet-1239405788/",
-      "source": "WWD",
-      "headline": "Ashley Park Channels Classic Hollywood in Prabal Gurung at LACMA Gala",
-      "blurb": "Monochromatic evening wear with vintage references signals renewed designer interest in timeless silhouettes and archival inspiration.",
-      "published": "Sun, 08 Nov 2026 03:15:08 +0000",
-      "added": "2026-11-08"
-    },
     {
       "url": "https://www.just-style.com/news/deakin-salvos-stores-textiles/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Design teams should monitor emerging sustainability mandates that could reshape material sourcing and compliance requirements.",
       "published": "Mon, 09 Nov 2026 16:30:00 +0000",
       "added": "2026-11-09"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/bci-farmraise-cotton-loop-bangladesh-recycling-1239409119/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Cotton Industry Tackles Traceability and Circular Production",
+      "blurb": "Streamlined farm documentation and closed-loop recycling pathways help teams source sustainable materials with verified supply chain data.",
+      "published": "Tue, 10 Nov 2026 19:44:56 +0000",
+      "added": "2026-11-10"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/world-collective-launches-sourcing-portal-1239409057/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "New Platform Democratizes Supplier Access for Independent Fashion Labels",
+      "blurb": "Design teams can now tap into vetted material vendors previously available only to established brands, accelerating sourcing timelines.",
+      "published": "Tue, 10 Nov 2026 19:18:29 +0000",
+      "added": "2026-11-10"
     }
   ]
 }
