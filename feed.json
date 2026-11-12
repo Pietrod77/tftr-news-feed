@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-11T19:59:35.219535",
+  "updated": "2026-11-12T20:38:15.569806",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/euratex-global-fashion-agenda-alliance-eu-textile-regulation-1239404243/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Euratex, Global Fashion Agenda Join Forces on EU Textile Policy",
-      "blurb": "Design teams should monitor emerging sustainability mandates that could reshape material sourcing and compliance requirements.",
-      "published": "Mon, 09 Nov 2026 16:30:00 +0000",
-      "added": "2026-11-09"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/bci-farmraise-cotton-loop-bangladesh-recycling-1239409119/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Cotton Industry Tackles Traceability and Circular Production",
-      "blurb": "Streamlined farm documentation and closed-loop recycling pathways help teams source sustainable materials with verified supply chain data.",
-      "published": "Tue, 10 Nov 2026 19:44:56 +0000",
-      "added": "2026-11-10"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/industry-news/world-collective-launches-sourcing-portal-1239409057/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Demonstrates scalable sustainable material innovation that design teams can evaluate for performance and environmental impact in technical apparel.",
       "published": "Wed, 11 Nov 2026 18:18:02 +0000",
       "added": "2026-11-11"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/material-world-spider-silk-wool-warp-knits-1239413036/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Bio-Innovation Boom: Lab-Grown Fibers Transform Textile Sourcing",
+      "blurb": "Spider silk and alternative leathers offer designers sustainable performance alternatives with novel functional properties for next-gen products.",
+      "published": "Thu, 12 Nov 2026 19:50:06 +0000",
+      "added": "2026-11-12"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/argentina-textile-chemicals-digital-product-passport-unep-1239411526/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Argentina Pilots Chemical Transparency System for Textile Supply Chains",
+      "blurb": "Design teams gain clearer visibility into material composition and recyclability data, enabling more informed sustainable product decisions.",
+      "published": "Thu, 12 Nov 2026 15:00:00 +0000",
+      "added": "2026-11-12"
     }
   ]
 }
