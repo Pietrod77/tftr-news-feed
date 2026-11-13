@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-12T20:38:15.569806",
+  "updated": "2026-11-13T20:18:51.888860",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/world-collective-launches-sourcing-portal-1239409057/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "New Platform Democratizes Supplier Access for Independent Fashion Labels",
-      "blurb": "Design teams can now tap into vetted material vendors previously available only to established brands, accelerating sourcing timelines.",
-      "published": "Tue, 10 Nov 2026 19:18:29 +0000",
-      "added": "2026-11-10"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/la-denim-institute-museum-auction-education-enrollment-1239411538/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "LA Denim Institute Opens Doors in 2027 With Inaugural Auction",
-      "blurb": "Design teams gain access to premier denim education and historical archives to deepen technical knowledge and trend research.",
-      "published": "Wed, 11 Nov 2026 19:57:09 +0000",
-      "added": "2026-11-11"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sustainability/lululemon-samsara-eco-enzymaitic-recycling-polyester-shorts-1239410883/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Design teams gain clearer visibility into material composition and recyclability data, enabling more informed sustainable product decisions.",
       "published": "Thu, 12 Nov 2026 15:00:00 +0000",
       "added": "2026-11-12"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/waterless-dyeing-factory-cleandye-ceases-operations-adidas-1239415246/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Innovative CO2 Dyeing Facility Shuts Down Operations",
+      "blurb": "Loss of sustainable dyeing capacity may limit eco-conscious production options for brands seeking to reduce water consumption in textile manufacturing.",
+      "published": "Fri, 13 Nov 2026 19:58:46 +0000",
+      "added": "2026-11-13"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/trade/egypt-apparel-exports-eu-us-aece-global-trade-tariffs-1239416067/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Egyptian Fashion Makers Eye Sustained Growth Amid Year-End Uncertainty",
+      "blurb": "Strong export momentum could reshape sourcing decisions for teams evaluating production alternatives in emerging markets.",
+      "published": "Fri, 13 Nov 2026 19:13:05 +0000",
+      "added": "2026-11-13"
     }
   ]
 }
