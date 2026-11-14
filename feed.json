@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-13T20:18:51.888860",
+  "updated": "2026-11-14T18:38:35.866816",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/lululemon-samsara-eco-enzymaitic-recycling-polyester-shorts-1239410883/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Lululemon Tests Enzyme-Treated Recycled Polyester in New Shorts",
-      "blurb": "Demonstrates scalable sustainable material innovation that design teams can evaluate for performance and environmental impact in technical apparel.",
-      "published": "Wed, 11 Nov 2026 18:18:02 +0000",
-      "added": "2026-11-11"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sustainability/material-world-spider-silk-wool-warp-knits-1239413036/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Bio-Innovation Boom: Lab-Grown Fibers Transform Textile Sourcing",
-      "blurb": "Spider silk and alternative leathers offer designers sustainable performance alternatives with novel functional properties for next-gen products.",
-      "published": "Thu, 12 Nov 2026 19:50:06 +0000",
-      "added": "2026-11-12"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sustainability/argentina-textile-chemicals-digital-product-passport-unep-1239411526/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Strong export momentum could reshape sourcing decisions for teams evaluating production alternatives in emerging markets.",
       "published": "Fri, 13 Nov 2026 19:13:05 +0000",
       "added": "2026-11-13"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/ffa-and-munich-fabric-start-host-webinar-1239416089/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Fashion Assembly, Munich Fabric Event Explores Supply Chain Innovation",
+      "blurb": "Designers and buyers need to understand emerging compliance standards and tech solutions reshaping how materials move through production pipelines.",
+      "published": "Fri, 13 Nov 2026 21:30:43 +0000",
+      "added": "2026-11-14"
+    },
+    {
+      "url": "https://www.just-style.com/news/unspun-arvind-3d-weaving/",
+      "source": "Just Style",
+      "headline": "Arvind, Unspun scale 3D weaving technology for mass production",
+      "blurb": "Design teams gain access to on-demand, digitally-engineered fabrics that reduce sampling cycles and waste.",
+      "published": "Fri, 13 Nov 2026 11:49:15 +0000",
+      "added": "2026-11-14"
     }
   ]
 }
