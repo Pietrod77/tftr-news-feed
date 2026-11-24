@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-22T20:07:37.798814",
+  "updated": "2026-11-24T00:34:14.358927",
   "items": [
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/recover-supima-aim-to-elevate-recycled-cotton-1239429063/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Recover and Supima Partner on Premium Recycled Cotton",
-      "blurb": "Design teams gain access to high-quality recycled fibers, expanding sustainable material options for collections.",
-      "published": "Fri, 20 Nov 2026 19:30:00 +0000",
-      "added": "2026-11-20"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/trade/eu-indonesia-economic-partnership-investment-agreements-1239429089/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "EU-Indonesia Trade Deal Slashes Tariffs on Textiles and Footwear",
-      "blurb": "Reduced import duties on 98% of European goods could lower sourcing costs and expand design collaboration opportunities between regions.",
-      "published": "Fri, 20 Nov 2026 17:45:14 +0000",
-      "added": "2026-11-20"
-    },
     {
       "url": "https://www.just-style.com/news/norrona-uluu-partner-to-create-new-seaweed-based-fibre/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Alignment on environmental regulations could reshape sourcing strategies and compliance requirements for EU-based design teams.",
       "published": "Wed, 18 Nov 2026 10:29:27 +0000",
       "added": "2026-11-22"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/industry-news/india-textile-machinery-apparel-exports-1239462736/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "India Pursues $100B Export Goal While Tackling Machinery Gaps",
+      "blurb": "Sourcing teams should monitor India's production capacity expansion as it seeks to capture more apparel manufacturing contracts globally.",
+      "published": "Mon, 23 Nov 2026 19:03:02 +0000",
+      "added": "2026-11-24"
+    },
+    {
+      "url": "https://www.just-style.com/news/north-carolina-textile-sorting/",
+      "source": "Just Style",
+      "headline": "NC textile recyclers deploy automation to triple sorting output",
+      "blurb": "Faster material recovery means designers can access recycled fibers more reliably for sustainable collection development.",
+      "published": "Mon, 23 Nov 2026 11:15:04 +0000",
+      "added": "2026-11-24"
     }
   ]
 }
