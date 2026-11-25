@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-24T22:53:58.065637",
+  "updated": "2026-11-25T22:07:29.840043",
   "items": [
-    {
-      "url": "https://www.just-style.com/news/euratex-egypt-textile-mou/",
-      "source": "Just Style",
-      "headline": "Euratex Partners With Egypt on Sustainable Textile Standards",
-      "blurb": "Alignment on environmental regulations could reshape sourcing strategies and compliance requirements for EU-based design teams.",
-      "published": "Wed, 18 Nov 2026 10:29:27 +0000",
-      "added": "2026-11-22"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/industry-news/india-textile-machinery-apparel-exports-1239462736/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "India Pursues $100B Export Goal While Tackling Machinery Gaps",
-      "blurb": "Sourcing teams should monitor India's production capacity expansion as it seeks to capture more apparel manufacturing contracts globally.",
-      "published": "Mon, 23 Nov 2026 19:03:02 +0000",
-      "added": "2026-11-24"
-    },
     {
       "url": "https://www.just-style.com/news/north-carolina-textile-sorting/",
       "source": "Just Style",
@@ -40,6 +24,22 @@
       "blurb": "Design teams can explore nearshore manufacturing options and strengthen supply chain resilience.",
       "published": "Tue, 24 Nov 2026 15:00:00 +0000",
       "added": "2026-11-24"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/material-world-spinnova-karl-mayer-pine-needles-1239464782/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Spinnova Resumes Operations Amid Textile Innovation Surge",
+      "blurb": "Faster spacer fabric tech and microfiber solutions could reshape sustainable material sourcing for next-season collections.",
+      "published": "Wed, 25 Nov 2026 16:00:00 +0000",
+      "added": "2026-11-25"
+    },
+    {
+      "url": "https://www.just-style.com/interviews/what-the-fabric-act-could-mean-for-us-fashion-brands/",
+      "source": "Just Style",
+      "headline": "New US bill could reshape accountability for domestic fashion manufacturing",
+      "blurb": "Design teams may need to audit and document labor practices across US supply chains if the FABRIC Act passes.",
+      "published": "Wed, 25 Nov 2026 11:41:30 +0000",
+      "added": "2026-11-25"
     }
   ]
 }
