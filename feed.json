@@ -1,22 +1,6 @@
 {
-  "updated": "2026-11-25T22:07:29.840043",
+  "updated": "2026-11-26T22:06:09.674199",
   "items": [
-    {
-      "url": "https://www.just-style.com/news/north-carolina-textile-sorting/",
-      "source": "Just Style",
-      "headline": "NC textile recyclers deploy automation to triple sorting output",
-      "blurb": "Faster material recovery means designers can access recycled fibers more reliably for sustainable collection development.",
-      "published": "Mon, 23 Nov 2026 11:15:04 +0000",
-      "added": "2026-11-24"
-    },
-    {
-      "url": "https://wwd.com/sourcing-journal/sj-denim/diy-denim-experience-daruma-jeans-tokyo-1239464745/",
-      "source": "Sourcing Journal (WWD)",
-      "headline": "Tokyo Denim Brand Launches Customer Customization Platform",
-      "blurb": "Direct-to-consumer personalization models signal growing demand for individualized products in apparel.",
-      "published": "Tue, 24 Nov 2026 20:42:44 +0000",
-      "added": "2026-11-24"
-    },
     {
       "url": "https://wwd.com/sourcing-journal/sj-denim/star-fades-international-strategic-partners-product-showcase-1239461051/",
       "source": "Sourcing Journal (WWD)",
@@ -40,6 +24,22 @@
       "blurb": "Design teams may need to audit and document labor practices across US supply chains if the FABRIC Act passes.",
       "published": "Wed, 25 Nov 2026 11:41:30 +0000",
       "added": "2026-11-25"
+    },
+    {
+      "url": "https://wwd.com/sourcing-journal/sustainability/bangladesh-minimum-wage-increase-garment-workers-1239466520/",
+      "source": "Sourcing Journal (WWD)",
+      "headline": "Bangladesh Minimum Wage Increase Fails to Bridge Worker-Maker Divide",
+      "blurb": "Brands face pressure to absorb costs as the modest raise creates friction across supply chains.",
+      "published": "Wed, 25 Nov 2026 22:58:46 +0000",
+      "added": "2026-11-26"
+    },
+    {
+      "url": "https://wwd.com/fashion-news/fashion-scoops/rh-skiwear-collection-thermore-padding-1239466890/",
+      "source": "WWD",
+      "headline": "Rh+ Debuts Luxe Skiwear With Thermore's Sustainable Insulation",
+      "blurb": "Combining premium fabrics like velvet with eco-friendly padding technology offers designers a new template for performance luxury outerwear.",
+      "published": "Thu, 26 Nov 2026 14:44:58 +0000",
+      "added": "2026-11-26"
     }
   ]
 }
